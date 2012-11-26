@@ -24,6 +24,18 @@
  - Instructions & Expectations
  - T-Shirts
 
+## Revenue
+ - Sponsored? or Funded Ticket Sales? or Free?
+ - Sponsors Pack
+ - Explanation of what ticket entails
+ - local grants?
+
+## Website
+ - Teaser Site
+ - Speaker-list
+ - Concept
+ - WHO is organising
+
 ## Venue Production
  - Wifi
  - Power
