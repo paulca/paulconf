@@ -24,6 +24,10 @@
  - Instructions & Expectations
  - T-Shirts
 
+## Significant Others
+ - SO Track?
+ - Creche Facilities
+
 ## Revenue
  - Sponsored? or Funded Ticket Sales? or Free?
  - Sponsors Pack
