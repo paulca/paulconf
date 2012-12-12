@@ -1,4 +1,6 @@
-# The Conference Checklist
+# Paul’s Conference Checklist
+
+As I organise more events, this is a list of reminders and notes to help keep things on track and to ensure I don't forget stuff!
 
 ## Hard Requirements
  - Venue
